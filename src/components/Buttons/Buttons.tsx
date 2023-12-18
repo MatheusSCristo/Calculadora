@@ -1,4 +1,3 @@
-import React from 'react'
 import Column4 from './Components/Column4'
 import Column3 from './Components/Column3'
 import Column2 from './Components/Column2'

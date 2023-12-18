@@ -1,4 +1,3 @@
-import React from 'react'
 import { useSumContext } from '../../../context/sumContext'
 import { useDisplayContext } from '../../../context/DisplayContext'
 
