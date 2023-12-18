@@ -45,6 +45,7 @@ const Column1 = () => {
                     for (let i = 0; i < operators.length; i++) {
                         if (sum.includes(operators[i])) {
                             setSum((prev) => prev.slice(0, prev.indexOf(operators[i])))
+                            setDisplay(0)
                             return
                         }
                     }
